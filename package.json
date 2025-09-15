@@ -1,0 +1,8 @@
+{
+  "name": "firs-qrcode",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "firs-einvoicing": "latest"
+  }
+}
